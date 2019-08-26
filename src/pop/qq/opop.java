@@ -7,4 +7,8 @@ public class opop {
         System.out.println("企鹅请问");
     }
 
+    public  void op(){
+        System.out.println("32342");
+    }
+
 }
